@@ -9,6 +9,9 @@ YOLOTester 是一個用於測試 YOLO 模型的 Python 專案。該專案可以�
 - 自動下載測試影片
 - 日誌記錄
 
+## 執行結果預覽
+![結果展示](result.gif)
+
 ## 先決條件
 
 - Python 3.8 以上
